@@ -4,7 +4,7 @@ class NavBar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="/">
+        <a className="navbar-brand" href="./">
           Conway's Game Of Life
         </a>
         <div className="form-inline my-2 my-lg-0" id="navbar-main">
