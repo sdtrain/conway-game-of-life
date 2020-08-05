@@ -6,6 +6,8 @@ Contains a 20 x 30 grid where the user can select the pattern (after pressing th
 
 ![Screenshot](./img/example1.png)
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
