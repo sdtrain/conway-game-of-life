@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "927e675edf0b546456864e9f8f8fa27e",
+    "revision": "f09b40c691f1f41fdda22463c711653d",
     "url": "/conway-game-of-life/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/conway-game-of-life/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "22632a349f5572c98c70",
+    "revision": "d47a5cea9d0163ab8b3e",
     "url": "/conway-game-of-life/static/css/main.828ab29a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/conway-game-of-life/static/js/2.bf9c0982.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22632a349f5572c98c70",
-    "url": "/conway-game-of-life/static/js/main.0b931d70.chunk.js"
+    "revision": "d47a5cea9d0163ab8b3e",
+    "url": "/conway-game-of-life/static/js/main.a8c431b1.chunk.js"
   },
   {
     "revision": "9f62f6f09d539f1281cb",
