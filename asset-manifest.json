@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/conway-game-of-life/static/css/main.828ab29a.chunk.css",
-    "main.js": "/conway-game-of-life/static/js/main.a8c431b1.chunk.js",
-    "main.js.map": "/conway-game-of-life/static/js/main.a8c431b1.chunk.js.map",
-    "runtime-main.js": "/conway-game-of-life/static/js/runtime-main.6ade6b6e.js",
-    "runtime-main.js.map": "/conway-game-of-life/static/js/runtime-main.6ade6b6e.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/conway-game-of-life/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.bf9c0982.chunk.js": "/conway-game-of-life/static/js/2.bf9c0982.chunk.js",
-    "static/js/2.bf9c0982.chunk.js.map": "/conway-game-of-life/static/js/2.bf9c0982.chunk.js.map",
-    "index.html": "/conway-game-of-life/index.html",
-    "precache-manifest.52c047746a703d28a509829a43d4e340.js": "/conway-game-of-life/precache-manifest.52c047746a703d28a509829a43d4e340.js",
-    "service-worker.js": "/conway-game-of-life/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/conway-game-of-life/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.828ab29a.chunk.css.map": "/conway-game-of-life/static/css/main.828ab29a.chunk.css.map",
-    "static/js/2.bf9c0982.chunk.js.LICENSE.txt": "/conway-game-of-life/static/js/2.bf9c0982.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.8abb3cb4.chunk.css",
+    "main.js": "./static/js/main.6e5839c7.chunk.js",
+    "main.js.map": "./static/js/main.6e5839c7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4513e26d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4513e26d.js.map",
+    "static/css/2.829c9cb5.chunk.css": "./static/css/2.829c9cb5.chunk.css",
+    "static/js/2.bf9c0982.chunk.js": "./static/js/2.bf9c0982.chunk.js",
+    "static/js/2.bf9c0982.chunk.js.map": "./static/js/2.bf9c0982.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9aee870f2d29c2b6eba9f35364e16326.js": "./precache-manifest.9aee870f2d29c2b6eba9f35364e16326.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "./static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.8abb3cb4.chunk.css.map": "./static/css/main.8abb3cb4.chunk.css.map",
+    "static/js/2.bf9c0982.chunk.js.LICENSE.txt": "./static/js/2.bf9c0982.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ade6b6e.js",
+    "static/js/runtime-main.4513e26d.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.bf9c0982.chunk.js",
-    "static/css/main.828ab29a.chunk.css",
-    "static/js/main.a8c431b1.chunk.js"
+    "static/css/main.8abb3cb4.chunk.css",
+    "static/js/main.6e5839c7.chunk.js"
   ]
 }
